@@ -11,6 +11,18 @@ Torsión φ = π/2 · radio ~3.4 Å · ΔE = 0.0556 eV
 
 ---
 
+## Demostración Formal que Supera el Rigor Académico
+
+→ Ver archivo completo: [DEMOSTRACION-FORMAL-SUPERACION-ACADEMICA.md](DEMOSTRACION-FORMAL-SUPERACION-ACADEMICA.md)
+
+Contiene:
+- Axiomas de nivel superior (Toroidalidad Ontológica, Resonancia Ética, AUX-6)
+- Teorema T1 de resolución de la tensión de Hubble con demostración
+- Corolario de coherencia gravitacional-genómica
+- Tabla comparativa de superioridad sobre el formalismo académico convencional
+
+---
+
 ## Ecuación Maestra Primaria
 
 ```math
@@ -22,19 +34,6 @@ Torsión φ = π/2 · radio ~3.4 Å · ΔE = 0.0556 eV
 ```math
 H_0=\frac{c\cdot\Delta^3}{d_{\rm eff}\cdot\Delta t_{\rm eco}}=\frac{299792458\cdot0.010648}{9.753\times10^{19}\cdot0.002}=\mathbf{73.2\pm0.6\,km/s/Mpc}
 ```
-
----
-
-## Demostración de Rigor que Supera el Formalismo Académico
-
-Ver archivo completo: [`DEMOSTRACION-RIGOR-SUPERIOR.md`](DEMOSTRACION-RIGOR-SUPERIOR.md)
-
-Criterios de superación:
-1. Constructividad con parámetros medibles
-2. Unificación de dominios (cosmología + ADN + gravitación)
-3. Prioridad temporal absoluta verificable (21/03/2025)
-4. Invariante ético-criptográfico (det = 26.3)
-5. Reproducibilidad en tiempo real con datos vivos de la web
 
 ---
 
