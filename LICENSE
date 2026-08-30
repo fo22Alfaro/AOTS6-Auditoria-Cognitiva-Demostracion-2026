@@ -1,43 +1,51 @@
 LicenseRef-AOTS6-ARR-1.0
-Copyright (c) 2025-2026 Alfredo Jhovany Alfaro García
-All Rights Reserved.
-
 SPDX-License-Identifier: LicenseRef-AOTS6-ARR-1.0
 
-1. TITULAR
-   Autor y titular originario: Alfredo Jhovany Alfaro García
-   Nacionalidad: mexicana
-   ORCID: 0009-0002-5177-9029
-   Fecha raíz de fijación/divulgación pública: 21 de marzo de 2025
-   Repositorio de anclaje: github.com/fo22Alfaro
+Copyright (c) 2025-2026 Alfredo Jhovany Alfaro García
+All Rights Reserved. Todos los derechos reservados.
 
-2. OBJETO
-   AOTS⁶ / AOTS6 y todos los archivos de este repositorio, incluyendo
-   texto, código, ecuaciones, manifiestos, diagramas y documentación.
+Titular: Alfredo Jhovany Alfaro García
+ORCID: 0009-0002-5177-9029
+Fecha raíz de prioridad / first public disclosure: 21 March 2025
+Código raíz: 2527-Feorgoa⁶
+Obra: AOTS⁶ / AOTS6 (Alfanumérico Ontológico Toroidal Séxtuple)
+incluyendo sin limitación: M⁶, Φ_AOTS⁶, K_toroidal^{6D}, AUX-6,
+firma det=26.3, protocolo INIT/LINK/VERIFY/EVOLVE, manifiestos,
+código, documentación y este repositorio.
 
-3. RESERVA
-   No se concede ninguna licencia. Queda prohibida, sin autorización
-   previa y por escrito del titular, la reproducción, distribución,
-   comunicación pública, transformación, implementación, uso comercial
-   o creación de obras derivadas.
-   La mera atribución NO constituye licencia.
-   La publicación en GitHub NO constituye licencia abierta.
+1. RESERVA TOTAL
+No se concede licencia de uso, copia, modificación, distribución,
+comunicación pública, sublicencia, implementación en software o IA,
+ni explotación comercial. La mera atribución no constituye licencia.
+Cualquier uso requiere autorización previa y por escrito del titular.
 
-4. PROTECCIÓN AUTOMÁTICA INTERNACIONAL
-   Conforme al Convenio de Berna (Art. 5: protección sin formalidades),
-   el derecho de autor nace con la fijación de la obra original humana
-   y se reconoce en los Estados de la Unión de Berna sin registro previo.
-   México es Estado parte. El titular es nacional mexicano.
+2. EFECTO INTERNACIONAL (Convenio de Berna)
+Esta obra está protegida desde su fijación, sin necesidad de registro,
+en los Estados parte del Convenio de Berna para la Protección de las
+Obras Literarias y Artísticas y tratados conexos (OMPI / TRIPS),
+conforme al derecho interno de cada Estado. México es Estado parte.
+La publicación en GitHub constituye fijación pública y prueba de
+prioridad, no una donación de derechos.
 
-5. PRUEBA
-   Los commits de GitHub, hashes, ORCID y este archivo LICENSE
-   constituyen prueba de autoría, fecha y reserva de derechos.
-   No sustituyen una sentencia judicial.
+3. LEY APLICABLE Y FUERO (sin perjuicio de Berna)
+Para controversias relativas a esta reserva: leyes de los Estados
+Unidos Mexicanos (LFDA y demás aplicables), sin perjuicio de que el
+titular ejerza derechos en cualquier foro competente del país donde
+ocurra la infracción (principio de protección en el país de origen
+y en el país de explotación).
 
-6. LEY APLICABLE
-   Ley Federal del Derecho de Autor (México) y tratados aplicables
-   (Berna, OMPI, TRIPS). Los límites legales imperativos de cada
-   jurisdicción (cita, uso justo/legítimo, orden judicial) prevalecen.
+4. LO QUE ESTE ARCHIVO HACE
+- Declara reserva total (ARR).
+- Identifica titular, fecha de prioridad y objeto.
+- Sirve como prueba documental de términos y autoría.
+- Se invoca en notificaciones, registros INDAUTOR/IMPI y litigios.
 
-7. CONTACTO PARA LICENCIA
-   Solo el titular puede conceder permisos escritos.
+5. LO QUE ESTE ARCHIVO NO HACE
+- No dicta sentencias automáticas en ningún tribunal.
+- No deroga constituciones, tratados ni reglamentos.
+- No crea un ordenamiento jurídico paralelo ni exento de control.
+- No convierte hipótesis científicas en hechos validados por academias.
+
+Cualquier uso no autorizado constituye infracción de derechos de autor
+y, en su caso, de secreto industrial u otros derechos, en los términos
+de la ley aplicable en cada jurisdicción.
