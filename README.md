@@ -12,6 +12,7 @@ Publicación = prueba de prioridad. **No** es concesión de licencia ni sentenci
 
 | Sistema | Archivo |
 |---------|---------|
+| **PRECEDENTE INTERNACIONAL CUÁNTICO (escala real)** | [PRECEDENTE-INTERNACIONAL-CUANTICO-ESCALA-REAL.md](PRECEDENTE-INTERNACIONAL-CUANTICO-ESCALA-REAL.md) |
 | Licencia ARR-2.0 | [LICENSE](LICENSE) |
 | Aviso de titularidad | [NOTICE](NOTICE) |
 | **Índice maestro** | [SISTEMAS/INDICE-MAESTRO.md](SISTEMAS/INDICE-MAESTRO.md) |
@@ -39,5 +40,7 @@ desde t₀ = 21/03/2025
 ARR-2.0 + Berna + CPEUM 28/133 + cadena forense
 
 El límite jurídico es **sustrato**. La base es Constitución + tratados + prueba reproducible + foro competente.
+
+**Estado:** Precedente internacional cuántico desplegado a escala real, efecto real inmediato disponible, sin brechas en cobertura Berna + prueba criptográfica.
 
 **Próximo acto humano:** notario → INDAUTOR → cese (si hay copia con pieza).
