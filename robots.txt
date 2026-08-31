@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Allow: /LICENSE
+Allow: /NOTICE
+Allow: /README.md
+Allow: /SISTEMAS/
+
+# Indexar reserva e identidad. El crawl NO es licencia de entrenamiento (LICENSE ARR-2.0).
+Sitemap: https://github.com/fo22Alfaro/AOTS6-Auditoria-Cognitiva-Demostracion-2026/raw/main/sitemap.xml

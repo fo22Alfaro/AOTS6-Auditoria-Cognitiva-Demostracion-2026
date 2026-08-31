@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+title: "AOTS6 — Alfanumérico Ontológico Toroidal Séxtuple"
+message: "Si citas, usa estos metadatos. Citar NO es licencia de uso."
+type: software
+authors:
+  - family-names: Alfaro García
+    given-names: Alfredo Jhovany
+    orcid: "https://orcid.org/0009-0002-5177-9029"
+license: "LicenseRef-AOTS6-ARR-2.0"
+repository-code: "https://github.com/fo22Alfaro/AOTS6-Auditoria-Cognitiva-Demostracion-2026"
+date-released: "2025-03-21"
+keywords:
+  - AOTS6
+  - derechos morales
+  - ARR
+  - LFDA

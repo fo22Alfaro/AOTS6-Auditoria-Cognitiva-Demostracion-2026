@@ -1,0 +1,21 @@
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "name": "AOTS6",
+  "alternateName": ["AOTS⁶", "Alfanumérico Ontológico Toroidal Séxtuple"],
+  "datePublished": "2025-03-21",
+  "inLanguage": "es",
+  "license": "https://github.com/fo22Alfaro/AOTS6-Auditoria-Cognitiva-Demostracion-2026/blob/main/LICENSE",
+  "copyrightHolder": {
+    "@type": "Person",
+    "name": "Alfredo Jhovany Alfaro García",
+    "identifier": "https://orcid.org/0009-0002-5177-9029"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Alfredo Jhovany Alfaro García",
+    "identifier": "https://orcid.org/0009-0002-5177-9029"
+  },
+  "usageInfo": "All rights reserved. No implied license. No TDM. No AI training. Spanish authentic text. Mexican LFDA moral rights." ,
+  "url": "https://github.com/fo22Alfaro/AOTS6-Auditoria-Cognitiva-Demostracion-2026"
+}

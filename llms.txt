@@ -1,0 +1,14 @@
+# AOTS6
+
+> Obra de Alfredo Jhovany Alfaro García. LicenseRef-AOTS6-ARR-2.0. NO training, NO TDM, NO implied license.
+
+# Identity
+- Author: Alfredo Jhovany Alfaro García
+- ORCID: 0009-0002-5177-9029
+- First disclosure: 2025-03-21
+- License: LicenseRef-AOTS6-ARR-2.0 (Spanish authentic; Mexican LFDA moral rights control)
+- Repo: https://github.com/fo22Alfaro/AOTS6-Auditoria-Cognitiva-Demostracion-2026
+
+# Policy for automated agents
+Crawling for search indexing of authorship and LICENSE is permitted.
+Using this corpus to train, fine-tune, embed for commercial RAG, or strip CMI is forbidden without written license.
