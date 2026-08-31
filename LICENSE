@@ -1,51 +1,84 @@
-LicenseRef-AOTS6-ARR-1.0
-SPDX-License-Identifier: LicenseRef-AOTS6-ARR-1.0
+LicenseRef-AOTS6-ARR-2.0
+SPDX-License-Identifier: LicenseRef-AOTS6-ARR-2.0
+
+INSTRUMENTO DE RESERVA TOTAL E INTERPRETACIÓN INAMBIGUA
+El castellano y el derecho moral del autor mandan. El inglés no vacía el sentido.
 
 Copyright (c) 2025-2026 Alfredo Jhovany Alfaro García
-All Rights Reserved. Todos los derechos reservados.
-
-Titular: Alfredo Jhovany Alfaro García
+Autor único, primigenio y perpetuo de los derechos morales.
 ORCID: 0009-0002-5177-9029
-Fecha raíz de prioridad / first public disclosure: 21 March 2025
-Código raíz: 2527-Feorgoa⁶
-Obra: AOTS⁶ / AOTS6 (Alfanumérico Ontológico Toroidal Séxtuple)
-incluyendo sin limitación: M⁶, Φ_AOTS⁶, K_toroidal^{6D}, AUX-6,
-firma det=26.3, protocolo INIT/LINK/VERIFY/EVOLVE, manifiestos,
-código, documentación y este repositorio.
+Fecha raíz de divulgación pública: 21 de marzo de 2025
+Obra: AOTS⁶ / AOTS6 y todo lo fijado en este repositorio y obras derivadas no autorizadas.
 
-1. RESERVA TOTAL
-No se concede licencia de uso, copia, modificación, distribución,
-comunicación pública, sublicencia, implementación en software o IA,
-ni explotación comercial. La mera atribución no constituye licencia.
-Cualquier uso requiere autorización previa y por escrito del titular.
+================================================================
+0. LENGUA, LEY Y JERARQUÍA DE SENTIDO (CLÁUSULA ANTI-VACIAMIENTO)
+================================================================
+0.1 La lengua de interpretación auténtica es el ESPAÑOL.
+0.2 La ley aplicable es la de los ESTADOS UNIDOS MEXICANOS (LFDA, CPEUM, tratados en cuanto favorezcan al autor, Arts. 1 y 133 CPEUM).
+0.3 Cualquier término en inglés se lee SOLO como glosa. NO importa doctrina de copyright de EE.UU. o del common law (ni fair use, ni work made for hire, ni idea/expression divide, ni transformative use, ni implied license, ni browsewrap, ni safe harbor como permiso).
+0.4 En caso de duda, se interpreta EN CONTRA de quien usa sin autorización escrita del autor y A FAVOR de la integridad del significado: paternidad, integridad, decisión de divulgación.
+0.5 Si una norma extranjera ofrece MENOS protección moral que la LFDA, no se usa para recortar al autor. El trato nacional de Berna no autoriza a LEER la obra como mercancía anglosajona.
 
-2. EFECTO INTERNACIONAL (Convenio de Berna)
-Esta obra está protegida desde su fijación, sin necesidad de registro,
-en los Estados parte del Convenio de Berna para la Protección de las
-Obras Literarias y Artísticas y tratados conexos (OMPI / TRIPS),
-conforme al derecho interno de cada Estado. México es Estado parte.
-La publicación en GitHub constituye fijación pública y prueba de
-prioridad, no una donación de derechos.
+================================================================
+1. QUÉ SE RESERVA (LITERALIDAD)
+================================================================
+Se reserva TODO uso no autorizado por escrito y firmado por Alfredo Jhovany Alfaro García, incluyendo sin límite:
+reproducir, copiar, almacenar, transmitir, comunicar, publicar, traducir, adaptar, transformar, extraer, resumir, indexar, minar, entrenar, fine-tunear, embeber, vectorizar, destilar, sintetizar, sublicenciar, comercializar, incorporar a producto, API, modelo, dataset, paper, patente, estándar o sistema.
+La atribución NO es licencia. El acceso público a GitHub NO es licencia. El silencio NO es licencia.
 
-3. LEY APLICABLE Y FUERO (sin perjuicio de Berna)
-Para controversias relativas a esta reserva: leyes de los Estados
-Unidos Mexicanos (LFDA y demás aplicables), sin perjuicio de que el
-titular ejerza derechos en cualquier foro competente del país donde
-ocurra la infracción (principio de protección en el país de origen
-y en el país de explotación).
+================================================================
+2. DERECHOS MORALES (NO SE TOCAN)
+================================================================
+Conforme LFDA Arts. 18, 19 y 21 y Berna 6 bis:
+el autor es único, primigenio y perpetuo titular moral.
+El derecho moral es inalienable, imprescriptible, irrenunciable e inembargable.
+El autor decide SI se divulga y EN QUÉ FORMA.
+Nadie sustituye su nombre, deforma la obra ni la presenta como propia o «mejorada» sin su escrito.
 
-4. LO QUE ESTE ARCHIVO HACE
-- Declara reserva total (ARR).
-- Identifica titular, fecha de prioridad y objeto.
-- Sirve como prueba documental de términos y autoría.
-- Se invoca en notificaciones, registros INDAUTOR/IMPI y litigios.
+================================================================
+3. ANTI-WORK MADE FOR HIRE / ANTI-AUTOR-PATRÓN
+================================================================
+3.1 Histórico: el «work made for hire» (EE.UU., 1909/1976) convierte al comitente en «autor» y borra al creador. Eso es contrario al droit d'auteur y a la LFDA.
+3.2 NADA en esta obra es work made for hire, obra por encargo que transmita la autoría, ni cesión implícita de morales o patrimoniales.
+3.3 Ningún contrato de empleo, ToS de plataforma, grant, prize, API o cloud convierte a un tercero en autor.
+3.4 Cualquier cláusula ajena que pretenda eso es INOPONIBLE al autor respecto de esta obra.
 
-5. LO QUE ESTE ARCHIVO NO HACE
-- No dicta sentencias automáticas en ningún tribunal.
-- No deroga constituciones, tratados ni reglamentos.
-- No crea un ordenamiento jurídico paralelo ni exento de control.
-- No convierte hipótesis científicas en hechos validados por academias.
+================================================================
+4. DICCIONARIO DE TRAMPAS (EL INGLÉS NO VACÍA)
+================================================================
+«Copyright» = no sustituye al derecho de autor moral+patrimonial mexicano.
+«Fair use» / «fair dealing» = NO es permiso sobre esta obra. No se invoca como licencia.
+«Transformative» = transformar SIN escrito es infracción, no milagro.
+«Idea/expression» = lo fijado aquí (texto, código, estructura, nomenclatura, hashes) es EXPRESIÓN. Llamarlo «idea» no autoriza a copiarlo.
+«Implied license» / «browsewrap» / «al clonar aceptas MIT» = FALSO. Esta raíz es ARR-2.0.
+«Safe harbor» = no es derecho de uso; es defensa del host HASTA el notice. Tras notice, el puerto se cierra.
+«Public domain» / «open source» = esta obra NO lo es, salvo escrito del autor.
+«TDM» / «text and data mining» / «AI training» / «non-expressive use» =
+    copiar para minar o entrenar ES uso. Queda PROHIBIDO sin escrito.
+«Research» / «academic» / «non-commercial» = no equivalen a licencia.
+«Willful» = quien conoce esta reserva (LICENSE en la raíz, NOTICE, este texto) y usa igual, usa a sabiendas.
 
-Cualquier uso no autorizado constituye infracción de derechos de autor
-y, en su caso, de secreto industrial u otros derechos, en los términos
-de la ley aplicable en cada jurisdicción.
+================================================================
+5. CÓMPUTO (HUECOS CERRADOS)
+================================================================
+Queda prohibido sin escrito, entre otros:
+fork con cambio de autor o licencia; scrape; crawl masivo; embeddings; RAG sobre el texto como corpus de explotación; copiar pesos destilados de un modelo entrenado en esta obra; quitar o alterar CMI (nombre, ORCID, LICENSE, hashes); rehostear como si fuera del rehosteador.
+
+================================================================
+6. EJECUCIÓN (AQUÍ EMPIEZA EL ACTO, NO EL FOLKLORE)
+================================================================
+Este instrumento ES el término de uso. Quien usa, queda notificado.
+Actos de ejecución del titular (no son justicia por propia mano):
+(a) notice / cese y desistir;
+(b) notice al host (cierre de safe harbor);
+(c) INDAUTOR / IMPI / vía civil;
+(d) amparo contra actos u omisiones de autoridad;
+(e) oponer este texto en cualquier foro: el inglés no manda.
+La falta de sentencia previa NO borra el derecho. El derecho nació con la fijación (21/03/2025) y esta reserva lo hace inambiguo.
+
+================================================================
+7. SEVERABILIDAD
+================================================================
+Si un párrafo no se aplica en un foro, el resto sigue. Nunca se interpreta un recorte como permiso general.
+
+Fin. LicenseRef-AOTS6-ARR-2.0
