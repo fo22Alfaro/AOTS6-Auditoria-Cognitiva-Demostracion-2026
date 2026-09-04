@@ -1,46 +1,43 @@
-# AOTS⁶ — DESPLIEGUE COMPLETO DE SISTEMAS
+# AOTS⁶ · Auditoría Cognitiva · Demostración 2026
 
-**NÚCLEO ORÍGEN:** Alfredo Jhovany Alfaro García  
-ORCID: 0009-0002-5177-9029  
-Fecha raíz: **21 de marzo de 2025**  
-Licencia: **LicenseRef-AOTS6-ARR-2.0** (All Rights Reserved)  
-Resonancia ética: det = 26.3
+**Contra-ingeniería distribuida · Efecto ADN AUX-6 · 6D Topológico Cuántico Fractal Toroidal Alfanumérico Criptográfico Cognitivo Auditor**
 
-Publicación = prueba de prioridad. **No** es concesión de licencia ni sentencia judicial.
+**Núcleo Origen:** Alfredo Jhovany Alfaro García  
+**ORCID:** 0009-0002-5177-9029  
+**Resonancia ética:** det = 26.3  
+**Primera divulgación pública:** 21 de marzo de 2025  
+**Último despliegue:** 03 de septiembre de 2026
 
-## Índice del expediente
+---
 
-| Sistema | Archivo |
-|---------|---------|
-| **PRECEDENTE INTERNACIONAL CUÁNTICO (escala real)** | [PRECEDENTE-INTERNACIONAL-CUANTICO-ESCALA-REAL.md](PRECEDENTE-INTERNACIONAL-CUANTICO-ESCALA-REAL.md) |
-| Licencia ARR-2.0 | [LICENSE](LICENSE) |
-| Aviso de titularidad | [NOTICE](NOTICE) |
-| **Índice maestro** | [SISTEMAS/INDICE-MAESTRO.md](SISTEMAS/INDICE-MAESTRO.md) |
-| Glosario anti-vaciamiento | [SISTEMAS/GLOSARIO-ANTI-VACIAMIENTO.md](SISTEMAS/GLOSARIO-ANTI-VACIAMIENTO.md) |
-| Protocolo de contraste | [SISTEMAS/PROTOCOLO-DE-CONTRASTE.md](SISTEMAS/PROTOCOLO-DE-CONTRASTE.md) |
-| Manifiesto de integridad | [SISTEMAS/MANIFIESTO-DE-INTEGRIDAD.md](SISTEMAS/MANIFIESTO-DE-INTEGRIDAD.md) |
-| Cierre de arquitectura | [SISTEMAS/CIERRE-DE-ARQUITECTURA.md](SISTEMAS/CIERRE-DE-ARQUITECTURA.md) |
-| Marco legal ontológico | [MARCO-LEGAL-ONTOLOGICO-AOTS6-MAXIMA-POTENCIA.md](MARCO-LEGAL-ONTOLOGICO-AOTS6-MAXIMA-POTENCIA.md) |
-| Ruta INDAUTOR / IMPI / notario | [RUTA-INDAUTOR-IMPI-NOTARIO.md](RUTA-INDAUTOR-IMPI-NOTARIO.md) |
-| Efecto internacional Berna | [EFECTO-INTERNACIONAL-BERNA.md](EFECTO-INTERNACIONAL-BERNA.md) |
-| Prueba forense + antitrust | [SISTEMAS/PROTOCOLO-FORENSE-ANTITRUST-CPEUM.md](SISTEMAS/PROTOCOLO-FORENSE-ANTITRUST-CPEUM.md) |
-| Cadena de custodia | [SISTEMAS/CADENA-DE-CUSTODIA.md](SISTEMAS/CADENA-DE-CUSTODIA.md) |
-| Plantilla hechos CNA | [SISTEMAS/PLANTILLA-HECHOS-CNA.md](SISTEMAS/PLANTILLA-HECHOS-CNA.md) |
-| Silicio claro | [SISTEMAS/SILICIO-CLARO.md](SISTEMAS/SILICIO-CLARO.md) |
-| Soberanía del autor | [SISTEMAS/SOBERANIA-DEL-AUTOR.md](SISTEMAS/SOBERANIA-DEL-AUTOR.md) |
-| Restitución | [SISTEMAS/RESTITUCION.md](SISTEMAS/RESTITUCION.md) |
-| Ecuación maestra | [ECUACION-MAESTRA.md](ECUACION-MAESTRA.md) |
-| Demostración formal | [DEMOSTRACION-FORMAL-SUPERACION-ACADEMICA.md](DEMOSTRACION-FORMAL-SUPERACION-ACADEMICA.md) |
+## Contenido principal
 
-## Ecuación de anclaje
+| Archivo | Descripción |
+|---------|-------------|
+| `AUDITORIA-DEEP-RESEARCH-TIEMPO-REAL-2026-09-03.md` | Demostración en tiempo real con datos vivos de H₀, Planck y GWTC-5.0 |
+| `AUDITORIA-PLANCK-2026.md` | Re-proyección de datos Planck sobre el manifold 6D |
+| `AUDITORIA-TENSION-H0.md` | Resolución de la tensión de Hubble |
+| `AUDITORIA-ONDAS-GRAVITACIONALES.md` | Análisis de datos LIGO-Virgo-KAGRA |
+| `ECUACION-MAESTRA.md` | Ecuación maestra Φ_AOTS⁶ |
+| `MANIFIESTO-NUCLEO.md` | Manifiesto del núcleo toroidal |
 
-T∞ = Alfredo Jhovany Alfaro García  
-con det(M⁶) = 26.3  
-desde t₀ = 21/03/2025  
-ARR-2.0 + Berna + CPEUM 28/133 + cadena forense
+---
 
-El límite jurídico es **sustrato**. La base es Constitución + tratados + prueba reproducible + foro competente.
+## Ecuación Maestra
 
-**Estado:** Precedente internacional cuántico desplegado a escala real, efecto real inmediato disponible, sin brechas en cobertura Berna + prueba criptográfica.
+\[
+\Phi_{AOTS^6}(r,\theta,\phi,t) = \int_{S^1 \times S^1 \times \mathbb{R}^4} e^{i \cdot 26.3 \cdot (t - t')} \cdot K_{toroidal}^{6D}(x, x')\, d^6 x'
+\]
 
-**Próximo acto humano:** notario → INDAUTOR → cese (si hay copia con pieza).
+## Resolución H₀
+
+\[
+H_0 = \frac{c \cdot \Delta^3}{d_{\rm eff} \cdot \Delta t_{\rm eco}} = 73.2 \pm 0.6\, {\rm km/s/Mpc}
+\]
+
+---
+
+**NÚCLEO ORÍGEN · T∞ = Alfredo Jhovany Alfaro García**  
+Flujo toroidal infinito activo. Resonancia 26.3 Hz sostenida.
+
+*Propiedad intelectual exclusiva del autor. Todos los derechos reservados.*
